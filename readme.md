@@ -2,7 +2,7 @@
 
 ## introduction
 
-The attacker login to the system background management page, can attack the server through the PHP one-sentence Trojan horse, obtain the control authority of the server, seriously threaten the security of server assets, and this CMS belongs to the commercial, the influence range is very wide.
+The attacker login to the system backstage management page, can attack the server through the PHP one-sentence Trojan horse, obtain the control authority of the server, seriously threaten the security of server assets, and this CMS belongs to the commercial, the influence range is very wide.
 
 ## exploit
 
