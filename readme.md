@@ -17,7 +17,7 @@ The attacker login to the system backstage management page, can attack the serve
 
 ![](4.jpg)
 
-### 4. Bug code download([click the link](https://www.s-cms.cn/download.html?code=php))--[Software download](https://cdn.shanling.top/file/1.com.php.zip).
+### 4. vulnerability code download([click the link](https://www.s-cms.cn/download.html?code=php))--[Software download](https://cdn.shanling.top/file/1.com.php.zip).
 
 ![](0.jpg)
 
